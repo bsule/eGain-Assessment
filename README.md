@@ -55,20 +55,27 @@ It uses keyword matching to understand user responses and filters a pre-defined 
 ## Examples of Chatbot
 
 ### Welcome Screen
-<img width="400" alt="Screenshot 2025-10-01 at 7 31 32 PM" src="https://github.com/user-attachments/assets/e63045db-cb1a-4e94-a1c5-afb2650ef935" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/e63045db-cb1a-4e94-a1c5-afb2650ef935" />
 
 ### Selecting Use Case
-<img width="400" alt="Screenshot 2025-10-01 at 7 32 33 PM" src="https://github.com/user-attachments/assets/d65284db-9c76-4590-ad67-38280db41ee4" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/d65284db-9c76-4590-ad67-38280db41ee4" />
 
 ### Choosing Budget Range
-<img width="400" alt="Screenshot 2025-10-01 at 7 33 31 PM" src="https://github.com/user-attachments/assets/74afa6a3-0db0-4a3b-89e8-3b04cc7016ea" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/74afa6a3-0db0-4a3b-89e8-3b04cc7016ea" />
 
 ### Picking Screen Size
-<img width="400" alt="Screenshot 2025-10-01 at 7 34 21 PM" src="https://github.com/user-attachments/assets/105285f0-6031-4e22-b514-06e45c67c547" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/105285f0-6031-4e22-b514-06e45c67c547" />
 
 ### Laptop Recommendation
-<img width="400" alt="Screenshot 2025-10-01 at 7 34 38 PM" src="https://github.com/user-attachments/assets/fecf4308-003a-4592-a991-7896dc2785b2" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/fecf4308-003a-4592-a991-7896dc2785b2" />
 
 ### Alternative Options
-<img width="400" alt="Screenshot 2025-10-01 at 7 35 06 PM" src="https://github.com/user-attachments/assets/d382124d-acc9-4e5d-a086-8b1ce8cc5822" />
-<img width="400" alt="Screenshot 2025-10-01 at 7 35 30 PM" src="https://github.com/user-attachments/assets/a4b33d6f-9b7e-4015-8263-09ea8a6aadeb" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/d382124d-acc9-4e5d-a086-8b1ce8cc5822" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/a4b33d6f-9b7e-4015-8263-09ea8a6aadeb" />
+
+### Error Handling
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/c4e56be9-1601-4da6-a0ac-580618034acb" />
+<img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/ea5d7f14-2a48-48a2-896b-ea16763a5b5f" />
+
+
+
