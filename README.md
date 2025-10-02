@@ -5,14 +5,13 @@ A React-based chatbot application that helps users find the perfect laptop based
 ## Setup/Installation Instructions
 
 ### Prerequisites
-- Node.js (version 16 or higher)
-- npm or yarn package manager
+- Node.js (version 16 or higher) — install from [nodejs.org](https://nodejs.org/)
 
 ### Installation Steps
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bsule/eGain-Assessment.git
    cd eGain-Assessment
    ```
 
